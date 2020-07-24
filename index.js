@@ -16,11 +16,11 @@ function increment(n){
 function decrement(n){
   return (n - 1)
 }
-function makeInt(n){
+function makeInt(string){
   parseInt(n)
   return n 
 }
-function preserveDecimal(n){
+function preserveDecimal(string){
   parseFloat(n)
   return n
 }
