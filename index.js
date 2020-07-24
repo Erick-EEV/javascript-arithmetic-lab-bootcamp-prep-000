@@ -17,9 +17,8 @@ function decrement(n){
   return (n - 1)
 }
 function makeInt(n){
-  var number = 10
-  parseInt(n, number)
-  return 
+  parseInt(n)
+  return n
 }
 function preserveDecimal(){
   return
