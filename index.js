@@ -18,7 +18,7 @@ function decrement(n){
 }
 function makeInt(n){
 parseInt(n)
-if ()
+if (isNaN)
   return n
 }
 function preserveDecimal(n){
