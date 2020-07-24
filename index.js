@@ -16,6 +16,13 @@ function increment(n){
 function decrement(n){
   return (n - 1)
 }
+function makeInt(){
+  return
+}
+function preserveDecimal(){
+  return
+}
+
 
 var number = 10
 
