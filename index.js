@@ -10,11 +10,13 @@ function multiply(a, b){
 function divide(a, b){
 return a / b
 }
+function increment(n){
+  return n-- 
+}
 var number = 10
 
 function add5(){
   number += 5
-  return number--
 }
 
 function divideBy3(){
